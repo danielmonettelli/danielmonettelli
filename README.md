@@ -80,12 +80,12 @@ I am an always active Software Developer, I love to get out of my comfort zone l
     <img src="https://raw.githubusercontent.com/danielmonettelli/danielmonettelli/3761b88f3c7f94b6a740dd0df43a49a6ce3738e3/Resources/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://raw.githubusercontent.com/danielmonettelli/danielmonettelli/3761b88f3c7f94b6a740dd0df43a49a6ce3738e3/Resources/dev/languages/css3.svg" alt="CSS3" style="vertical-align:top; margin:4px">
-  </a>
-
   <a href="https://sass-lang.com/">
     <img src="https://raw.githubusercontent.com/danielmonettelli/danielmonettelli/3761b88f3c7f94b6a740dd0df43a49a6ce3738e3/Resources/dev/languages/sass.svg" alt="Sass" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://www.w3schools.com/js/default.asp">
+    <img src="https://raw.githubusercontent.com/danielmonettelli/danielmonettelli/3761b88f3c7f94b6a740dd0df43a49a6ce3738e3/Resources/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://dart.dev/">
