@@ -2,7 +2,7 @@
 
 ---
 
-I strive to contribute and improve my knowledge both in my posts and my code. The philosophy that guides me in life is "You have to see the end to see every thing", a wisdom that my wonderful mother taught me. This philosophy helps me maintain a long-term perspective in my work and seek effective solutions to the complex problems I face. In addition, it reminds me of the importance of working humbly and collaboratively with my colleagues to achieve success in projects 😊.
+I am a person who strive to contribute and improve my knowledge both in my posts and my code. The philosophy that guides me in life is "You have to see the end to see every thing", a wisdom that my wonderful mother taught me. This philosophy helps me maintain a long-term perspective in my work and seek effective solutions to the complex problems I face. In addition, it reminds me of the importance of working humbly and collaboratively with my colleagues to achieve success in projects 😊.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sora&size=22&duration=4500&color=3CA2DAFB&lines=%F0%9F%92%BBSoftware+Engineer;%E2%9C%A8Content+Creator;%F0%9F%8E%A8UX+Engineer)](https://git.io/typing-svg)
 
